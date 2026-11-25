@@ -483,14 +483,3 @@ Also added `block-outside-dns` directive to OpenVPN client config to enforce DNS
 - Patch management SOP with rollback capability
 
 ---
-
-## 👤 About
-
-**Project Lead:** Ari Said
-**Certifications:** ISC2 CC | CompTIA Security+
-**Related Project:** [Security Operations Lab](https://github.com/arikari93/security-operations-lab) (NIDS + SIEM)
-**LinkedIn:** [Connect with me](https://www.linkedin.com/in/ari-said92)
-
----
-
-*⭐ If you found this project helpful, please consider giving it a star!*
